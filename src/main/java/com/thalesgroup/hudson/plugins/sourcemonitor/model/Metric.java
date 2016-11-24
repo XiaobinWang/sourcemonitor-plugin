@@ -1,7 +1,7 @@
 package com.thalesgroup.hudson.plugins.sourcemonitor.model;
 import java.io.Serializable;
 
-
+// ÎÒÃÇµÄ×¢ÊÍ
 public class Metric implements Serializable{
 
 	private  String id;
